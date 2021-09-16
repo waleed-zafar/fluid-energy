@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25.001" height="25" viewBox="0 0 25.001 25">
+  <g id="wordpad-img" transform="translate(-932.999 -1909)">
+    <rect id="Rectangle_124" data-name="Rectangle 124" width="25" height="25" transform="translate(933 1909)" fill="none"/>
+    <g id="word" transform="translate(932.999 1894.005)">
+      <path id="Path_18751" data-name="Path 18751" d="M267.6,97.01H256.773a.772.772,0,0,1-.773-.773V80.777a.773.773,0,0,1,.773-.773H267.6a.773.773,0,0,1,.773.773v15.46A.772.772,0,0,1,267.6,97.01Z" transform="translate(-243.632 -60.916)" fill="#eceff1"/>
+      <g id="Group_888" data-name="Group 888" transform="translate(12.368 22.18)">
+        <path id="Path_18752" data-name="Path 18752" d="M264.5,145.55h-7.73a.773.773,0,1,1,0-1.546h7.73a.773.773,0,1,1,0,1.546Z" transform="translate(-256 -144.004)" fill="#1976d2"/>
+        <path id="Path_18753" data-name="Path 18753" d="M264.5,209.55h-7.73a.773.773,0,1,1,0-1.546h7.73a.773.773,0,1,1,0,1.546Z" transform="translate(-256 -204.912)" fill="#1976d2"/>
+        <path id="Path_18754" data-name="Path 18754" d="M264.5,273.55h-7.73a.773.773,0,1,1,0-1.546h7.73a.773.773,0,1,1,0,1.546Z" transform="translate(-256 -265.82)" fill="#1976d2"/>
+        <path id="Path_18755" data-name="Path 18755" d="M264.5,337.55h-7.73a.773.773,0,1,1,0-1.546h7.73a.773.773,0,1,1,0,1.546Z" transform="translate(-256 -326.728)" fill="#1976d2"/>
+      </g>
+      <path id="Path_18756" data-name="Path 18756" d="M13.634,16.175A.76.76,0,0,0,13,16.01L.631,18.329A.774.774,0,0,0,0,19.088V36.094a.772.772,0,0,0,.631.759L13,39.172a.74.74,0,0,0,.142.014.773.773,0,0,0,.773-.773V16.769A.768.768,0,0,0,13.634,16.175Z" transform="translate(0 0)" fill="#1565c0"/>
+      <path id="Path_18757" data-name="Path 18757" d="M70.95,183.8a.773.773,0,0,1-.673.68.665.665,0,0,1-.1.006.775.775,0,0,1-.724-.5l-1.6-4.255-1.6,4.255a.773.773,0,0,1-1.489-.164l-.773-5.411a.773.773,0,0,1,1.531-.218l.345,2.418,1.257-3.353a.806.806,0,0,1,1.449,0l1.184,3.157.416-3.744a.773.773,0,1,1,1.537.172Z" transform="translate(-60.906 -152.253)" fill="#fafafa"/>
+    </g>
+  </g>
+</svg>
